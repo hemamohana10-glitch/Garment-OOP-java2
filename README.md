@@ -1,6 +1,7 @@
 # Garment-OOP-java2
 
 // Main class representing the garment program
+
 public class Hema{
     String type;
     String size;
