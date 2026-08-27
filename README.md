@@ -139,3 +139,9 @@ Solution: Created a repository, uploaded the .java file, and added a README.md f
 4. README Documentation
 Preparing all the required sections such as the objective, algorithm, test cases, and UML diagram was challenging.
 Solution: Organized the README into separate sections according to the assignment requirements.
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-08-27 200908" src="https://github.com/user-attachments/assets/f11d39c0-278c-4266-aa53-4e4d479afbe0" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-27 200448" src="https://github.com/user-attachments/assets/54729d73-2295-422c-92e7-85319fea1006" />
+
+
