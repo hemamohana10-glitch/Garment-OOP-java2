@@ -22,15 +22,8 @@ constructors, encapsulation-related concepts, and methods.
 4. Class Diagram
 
 Hema
--------------------------
-- type : String
-- size : String
-- tailorName : String
--------------------------
-+ Hema(type, size, tailorName)
-+ display() : void
-+ main() : void
--------------------------
+![Uploading garrment classs diagram.jpeg…]()
+
 
 5. Algorithm
 
