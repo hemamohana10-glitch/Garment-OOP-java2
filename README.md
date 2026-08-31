@@ -22,7 +22,8 @@
 4. Class Diagram
 
    Hema
-   ![Uploading garrment classs diagram.jpeg…]()
+<img width="1394" height="1128" alt="garrment classs diagram" src="https://github.com/user-attachments/assets/adc9b0d9-d14d-474b-869c-e633906360aa" />
+
 
 
 5. Algorithm
